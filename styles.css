@@ -1,0 +1,38 @@
+
+#header {
+    list-style-type: none;
+    background-color: #120323;
+    color: #97bf04;
+    margin: 5px;
+    padding: 5px;
+    text-align: center;
+}
+
+#hero{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+    max-width: 900px;
+    max-height: 600px;
+    border-radius: 10px;
+  box-shadow: 8px 8px 30px 8px #000;
+}
+
+#wrapper {
+    text-align: center;
+}
+
+
+button{
+    background-color: #d9043d;
+    color: #120323;
+    align-items: center;
+    border-radius: 10px;
+    margin: 5px;
+    padding: 5px;
+    position: flex;
+    top: 50%;
+}
+
+
